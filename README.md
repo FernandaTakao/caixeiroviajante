@@ -73,7 +73,7 @@ java -cp src AppCliente
 | Abordagem      | Tempo Estimado (ms) | Observações                       |
 |-------------|------------------------|-----------------------------------|
 | Sequencial  |        7 ms        | Custo computacional elevado       |
-| Paralela    |        3 ms        | Uso de 2 threads                  |
+| Paralela    |        3 ms        | Uso de 8 threads                  |
 | Distribuída |        5 ms        | Processamento em 2 sockets        |
 
 > Os tempos foram medidos em uma máquina com processador Intel i5, 8 GB de RAM, Windows 10.
