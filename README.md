@@ -57,7 +57,7 @@ java -cp src AppParalelo
 **1. Em um terminal, execute o servidor:**
 
 ```bash
-
+java -cp src AppServidor
 ```
 
 **2. Em dois terminais diferentes, execute o cliente (duas vezes):**
